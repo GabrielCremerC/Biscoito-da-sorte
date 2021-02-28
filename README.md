@@ -7,8 +7,8 @@
 
 ### Estilização simples 
 
-Deixando ao centro tudo 
-Hover e Direcionamento
+- Deixando ao centro tudo
+- Hover e Direcionamento
 
 ![Hover](https://media.giphy.com/media/bYNHUPd2ZAc019XylI/giphy.gif)
 
