@@ -8,13 +8,12 @@
 ### Estilização simples 
 
 Deixando ao centro tudo 
-
 Hover e Direcionamento
-
 
 ![Hover](https://media.giphy.com/media/bYNHUPd2ZAc019XylI/giphy.gif)
 
 --
 
--- Link para Projeto!
+-- Link para ir ao Projeto!
+
 ![Gif Menu](https://media.giphy.com/media/qW5ce8TbUnOnej3Shn/giphy.gif)
